@@ -1,0 +1,13 @@
+citHeader("To cite package 'IDetect' in publications use:")
+
+citEntry(entry = "Manual",
+  title        = "IDetect: Detecting multiple generalized change-points by isolating single ones",
+  author       = personList(as.person("Andreas Anastasiou"),
+                   as.person("Piotr Fryzlewicz")),
+  year         = "2018",
+  note         = "R package version 1.0",
+  textVersion  =
+  paste("Andreas Anastasiou, Piotr Fryzlewicz (2018).",
+        "IDetect: Detecting multiple generalized change-points by isolating single ones.",
+        "R package version 1.0.")
+)
